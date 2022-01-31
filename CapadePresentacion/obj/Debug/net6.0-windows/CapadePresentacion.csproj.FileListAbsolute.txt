@@ -1,0 +1,17 @@
+C:\Users\carlo\Desktop\Programacion II\Asignaciones\CapadePresentacion\CapadePresentacion\bin\Debug\net6.0-windows\CapadePresentacion.exe
+C:\Users\carlo\Desktop\Programacion II\Asignaciones\CapadePresentacion\CapadePresentacion\bin\Debug\net6.0-windows\CapadePresentacion.deps.json
+C:\Users\carlo\Desktop\Programacion II\Asignaciones\CapadePresentacion\CapadePresentacion\bin\Debug\net6.0-windows\CapadePresentacion.runtimeconfig.json
+C:\Users\carlo\Desktop\Programacion II\Asignaciones\CapadePresentacion\CapadePresentacion\bin\Debug\net6.0-windows\CapadePresentacion.dll
+C:\Users\carlo\Desktop\Programacion II\Asignaciones\CapadePresentacion\CapadePresentacion\bin\Debug\net6.0-windows\ref\CapadePresentacion.dll
+C:\Users\carlo\Desktop\Programacion II\Asignaciones\CapadePresentacion\CapadePresentacion\bin\Debug\net6.0-windows\CapadePresentacion.pdb
+C:\Users\carlo\Desktop\Programacion II\Asignaciones\CapadePresentacion\CapadePresentacion\obj\Debug\net6.0-windows\CapadePresentacion.csproj.AssemblyReference.cache
+C:\Users\carlo\Desktop\Programacion II\Asignaciones\CapadePresentacion\CapadePresentacion\obj\Debug\net6.0-windows\CapadePresentacion.Form1.resources
+C:\Users\carlo\Desktop\Programacion II\Asignaciones\CapadePresentacion\CapadePresentacion\obj\Debug\net6.0-windows\CapadePresentacion.csproj.GenerateResource.cache
+C:\Users\carlo\Desktop\Programacion II\Asignaciones\CapadePresentacion\CapadePresentacion\obj\Debug\net6.0-windows\CapadePresentacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carlo\Desktop\Programacion II\Asignaciones\CapadePresentacion\CapadePresentacion\obj\Debug\net6.0-windows\CapadePresentacion.AssemblyInfoInputs.cache
+C:\Users\carlo\Desktop\Programacion II\Asignaciones\CapadePresentacion\CapadePresentacion\obj\Debug\net6.0-windows\CapadePresentacion.AssemblyInfo.cs
+C:\Users\carlo\Desktop\Programacion II\Asignaciones\CapadePresentacion\CapadePresentacion\obj\Debug\net6.0-windows\CapadePresentacion.csproj.CoreCompileInputs.cache
+C:\Users\carlo\Desktop\Programacion II\Asignaciones\CapadePresentacion\CapadePresentacion\obj\Debug\net6.0-windows\CapadePresentacion.dll
+C:\Users\carlo\Desktop\Programacion II\Asignaciones\CapadePresentacion\CapadePresentacion\obj\Debug\net6.0-windows\ref\CapadePresentacion.dll
+C:\Users\carlo\Desktop\Programacion II\Asignaciones\CapadePresentacion\CapadePresentacion\obj\Debug\net6.0-windows\CapadePresentacion.pdb
+C:\Users\carlo\Desktop\Programacion II\Asignaciones\CapadePresentacion\CapadePresentacion\obj\Debug\net6.0-windows\CapadePresentacion.genruntimeconfig.cache
